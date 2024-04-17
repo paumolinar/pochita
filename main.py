@@ -1,2 +1,2 @@
 print("pochita")
-print("chetito")
+print("huele a chetito")
